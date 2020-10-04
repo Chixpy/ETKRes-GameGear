@@ -1,0 +1,50 @@
+The Game Gear version of the grand old lady of war simulations, Daisenryaku, arranges a war between the fictive Red and Blue countries. On one of thirty different maps, units are produced and moved out into combat, and the war is only over when the enemy capital has been conquered.
+
+Three basic phases make up each turn: production, movement and combat. Each city or airbase within a distance of five hexagons from your capital may produce one unit each turn, as long as your funds allow it. Each turn yields new funds, whose amount is proportional to the number of cities and airports you have occupied.
+
+Units are moved on the map, which is based on 
+fake
+hexagons";
+the
+hexagons
+are
+in
+fact
+square
+but
+offset
+on
+each
+row
+so
+that
+each
+square
+borders
+six
+other
+squares.
+Each
+terrain
+type
+has
+different
+movement
+and
+defence
+values
+which
+makes
+movement
+and
+combat
+more
+complicated."
+
+The outcome of combat is determined by the attack strength which varies between different unit types, and by their experience. Each time a unit survives combat, it gains experience points and eventually gains in experience level, which makes the chance of winning in combat higher. As each unit is in fact a squadron of ten, a typical combat will only destroy a certain number of the members of the unit.
+
+An additional moment in the gameplay is the recharging phase. Units which have lost members can be built up to full force in a city or airbase, and those which have run out of ammunition can do the same. Ammunition can also be replenished in the battlefield using supply trucks.
+
+A total of thirteen airbourne and land-based units are available. Some units cannot fight other units; tanks can do nothing against bombers, and mechanised infantry can't protect itself well against a howitzer two squares away.
+
+The game can be played both against the computer or against another human player by linking two Game Gears together.

@@ -1,0 +1,19 @@
+Nazo Puyo 2 continues where the original left off. We have here 200 new puzzles to solve, compared to the 100 of the predecessor. Each puzzle is played Puyo Puyo-style, but with a certain goal to complete using a preset set of puyos, e.g. 
+destroy
+all
+puyos"
+eliminate 9 puyos at once
+make a triple combo
+and
+so
+on
+thereby
+taxing
+your
+Puyo
+Puyo
+skills
+and
+strategies."
+
+Another new addition is a battery backup, allowing you not only to save your current position, but also to save all puzzles you may create in the edit mode.
