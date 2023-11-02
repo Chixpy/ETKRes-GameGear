@@ -2,44 +2,7 @@ The Game Gear version of the grand old lady of war simulations, Daisenryaku, arr
 
 Three basic phases make up each turn: production, movement and combat. Each city or airbase within a distance of five hexagons from your capital may produce one unit each turn, as long as your funds allow it. Each turn yields new funds, whose amount is proportional to the number of cities and airports you have occupied.
 
-Units are moved on the map, which is based on 
-fake
-hexagons";
-the
-hexagons
-are
-in
-fact
-square
-but
-offset
-on
-each
-row
-so
-that
-each
-square
-borders
-six
-other
-squares.
-Each
-terrain
-type
-has
-different
-movement
-and
-defence
-values
-which
-makes
-movement
-and
-combat
-more
-complicated."
+Units are moved on the map, which is based on fake hexagons; the hexagons are in fact square but offset on each row so that each square borders six other squares. Each terrain type has different movement and defence values which makes movement and combat more complicated.
 
 The outcome of combat is determined by the attack strength which varies between different unit types, and by their experience. Each time a unit survives combat, it gains experience points and eventually gains in experience level, which makes the chance of winning in combat higher. As each unit is in fact a squadron of ten, a typical combat will only destroy a certain number of the members of the unit.
 

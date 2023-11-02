@@ -2,13 +2,4 @@ Magical Puzzle Popils is a single screen platform puzzle game. The object in eac
 
 Breaking blocks is the most important gameplay element. Breaking a block causes the column of blocks above it to fall one place down. The player must use this block breaking ability to change the labyrinth and create a way to the princess. 
 
-The short introduction sequence shows the back story: A beautiful princess fell in love with you! And you fell in love with her too... The wizard of forest 
-Popil"
-shut
-her
-in
-his
-labyrinth.
-Please
-save
-her!"
+The short introduction sequence shows the back story: A beautiful princess fell in love with you! And you fell in love with her too... The wizard of forest Popil shut her in his labyrinth. Please save her!

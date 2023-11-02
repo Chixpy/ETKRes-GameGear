@@ -1,6 +1,6 @@
 Sonic 2 In 1 is a compilation of two Sonic games:
 
 1. Sonic the Hedgehog 2
-Sonic the Hedgehog: Spinball
+2. Sonic the Hedgehog: Spinball
 
 There is no menu to switch games. It changes automatically when the system is power-cycled.
